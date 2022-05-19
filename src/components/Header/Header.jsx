@@ -28,7 +28,7 @@ const ItemThree = () => <div className={styles.itemTwo}>
     <a href="tel:+78782210133">
         <button>Статус заказа</button>
     </a>
-    <a href="mailto:test@test.ru">
+    <a href="mailto:murzakuv@bk.ru">
         <button>Заказать звонков</button>
     </a>
     </div>

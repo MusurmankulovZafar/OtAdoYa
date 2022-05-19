@@ -13,7 +13,7 @@ export default function BodyModal () {
         </div>
         <div className="dfc">
             <AiOutlineMail />
-                <a href="mailto:test@test.ru">test@test.ru</a>
+                <a href="mailto:murzakuv@bk.ru">murzakuv@bk.ru</a>
         </div>
         <h2>Город Черкесск</h2>
         <h5>Октябрьская улица, 2а</h5>
