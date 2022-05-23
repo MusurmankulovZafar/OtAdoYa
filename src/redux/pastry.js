@@ -5,8 +5,8 @@ const initialState = {
   products: data,
   basket: [],
   reviews: [
-    {id: 1, user: "Алексей", title: "Обслуживание хорошое, 5 из 5"},
-    {id: 1, user: "Дмитрий", title: "Все круто!"}
+    {id: 1, user: "Джамал", title: "Обслуживание хорошое, 5 из 5"},
+    {id: 1, user: "Ислам", title: "Все круто!"}
   ],
   buyer: {}
 }
