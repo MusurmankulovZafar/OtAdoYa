@@ -16,6 +16,6 @@ export default function BodyModal () {
                 <a href="mailto:murzakuv@bk.ru">murzakuv@bk.ru</a>
         </div>
         <h2>Город Черкесск</h2>
-        <h5>Октябрьская улица, 2а</h5>
+        <h5>Привокзальная улица, 27а</h5>
     </div>
 }
